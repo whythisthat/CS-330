@@ -21,11 +21,11 @@ Camera controls used WASD for movement, QE for height adjustment, and mouse for 
 
 Reflection
 How do I approach designing software?
-I start with planning and iterate as I go. This project built skills in modular design and practical problem-solving. I used a structured approach, focusing on each object’s shape and refining textures and lighting last. I’ll apply this iterative method to future projects that need a balance of visual detail and technical function.
+This project enhanced my design skills, particularly in modular construction and balancing functionality with simplicity. I followed an iterative design process, which started with planning object shapes and ended with refining textures and lighting. Going forward, I can apply this structured approach to projects requiring both visual appeal and technical precision.
 
 How do I approach developing programs?
-I focus on modular code and test frequently. I broke down each part—object setup, lighting, and controls—building and adjusting in stages. My coding approach is now more concise, with an emphasis on readability and adaptability.
+Throughout development, I used modular coding and frequent testing. Each component—object setup, lighting, and camera controls—was built iteratively, allowing me to refine and adjust as needed. My coding approach evolved to prioritize concise, readable functions, and I’ve become more adaptable in applying changes as I work toward final results.
+
 
 How can computer science help me reach my goals?
-Computational graphics gives me new skills in scene management and data visualization. These skills align with my educational goals in programming and future roles in areas like game development and UI design. Creating engaging visuals adds value to technical and non-technical projects alike.
-
+Working on computational graphics expanded my technical skills, particularly in object rendering and scene management. These skills are relevant to both educational goals in advanced programming and professional aspirations in fields like game development and UI design. Computational graphics allow me to create visual data representations that are accessible and engaging, which is valuable in both technical and non-technical settings.
